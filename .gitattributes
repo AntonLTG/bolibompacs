@@ -5735,3 +5735,7 @@
 /bolibompacs_unity/Library/Artifacts/de/de9afccaf86c7111d436c90fc746a195 filter=lfs diff=lfs merge=lfs -text
 /bolibompacs_unity/Library/Artifacts/e3/e308024cf0db54d5f3bb9e05b9bf9ff4 filter=lfs diff=lfs merge=lfs -text
 /bolibompacs_unity/Library/Artifacts/f9/f9dfbc463292fc7af249912ea559526f filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+/bolibompacs_unity/Library/Artifacts/6b/6b28cd54366f869129157cc1abe503d0 filter=lfs diff=lfs merge=lfs -text
+/bolibompacs_unity/Library/Artifacts/9b/9bec7b3c446ce5a70755f89c65560aeb filter=lfs diff=lfs merge=lfs -text
+/bolibompacs_unity/Library/Artifacts/f4/f4a2ff372e41859c69c45ac71ca0eaf8 filter=lfs diff=lfs merge=lfs -text
