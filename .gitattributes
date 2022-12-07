@@ -5763,3 +5763,6 @@
 /bolibompacs_unity/Library/Artifacts/fa/fa3ff0df9410822cf35b3ac57af497f3 filter=lfs diff=lfs merge=lfs -text
 /bolibompacs_unity/Library/Artifacts/fd/fd815d2b533d1fcf21b43c1877682a1a filter=lfs diff=lfs merge=lfs -text
 *.cache filter=lfs diff=lfs merge=lfs -text
+/bolibompacs_unity/Library/Artifacts/20/2059cf21e014d14f4b3aa4d50aec6866 filter=lfs diff=lfs merge=lfs -text
+/bolibompacs_unity/Library/Artifacts/4e/4ec52a691fe063a1751e31a3d64c417c filter=lfs diff=lfs merge=lfs -text
+/bolibompacs_unity/Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3 filter=lfs diff=lfs merge=lfs -text
